@@ -1,4 +1,4 @@
-Year,Week,Won Toss,Won OT Toss,Roof,Surface,Duration,Attendance,Weather,Vegas Line,Over/Under,Link,Favorite,Spread,Over/Under (Points)
+season,week,won_toss,won_ot_toss,roof,surface,duration,attendance,weather,vegas_line,over_under,link,favorite,spread,over_under_points
 2015,1,Patriots (deferred),,outdoors,fieldturf ,3:00,"66,829","65 degrees, relative humidity 0%, wind 7 mph, wind chill 0",New England Patriots -7.0,52.0 (under),https://www.pro-football-reference.com/boxscores/201509100nwe.htm,New England Patriots,-7,52
 2015,1,Packers (deferred),,outdoors,grass ,3:15,"62,442","72 degrees, relative humidity 39%, wind 11 mph, wind chill 0",Green Bay Packers -6.5,49.0 (over),https://www.pro-football-reference.com/boxscores/201509130chi.htm,Green Bay Packers,-6.5,49
 2015,1,Rams (deferred),Rams,dome,astroplay,3:30,"51,792",,Seattle Seahawks -4.0,40.5 (over),https://www.pro-football-reference.com/boxscores/201509130ram.htm,Seattle Seahawks,-4,40.5
